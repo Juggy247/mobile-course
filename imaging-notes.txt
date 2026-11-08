@@ -1,0 +1,4 @@
+# Medical Imaging
+
+Medical imaging allows non-invasive visualization of the body interior.
+Common modalities: X-ray, CT, MRI, Ultrasound, PET.
